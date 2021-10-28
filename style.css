@@ -10,6 +10,10 @@ body::before{
     border-radius: 10px;
 }
 
+.navbgcolor{
+    background-color: purple;
+}
+
 @media(min-width: 768px){
     .news-input{
         width: 50%;
